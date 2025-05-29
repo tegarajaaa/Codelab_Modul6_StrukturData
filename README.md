@@ -1,1 +1,3 @@
-# Codelab_Modul6_StrukturData
+# Codelab_Modul6_StrukturDat
+NAMA : TEGAR RESKI PRATAMA
+NIM : 202310370311215
